@@ -1,7 +1,7 @@
 /*
 Nome: Thiago Aparecido Gonçalves da Costa       R.A:537241
-      João Ricardo Ito Messias                  R.A:537241
-      Leonardo Ademir Tonezi                    R.A:537241
+      João Ricardo Ito Messias                  R.A:536814
+      Leonardo Ademir Tonezi                    R.A:540201
  */
 package perceptron;
 
